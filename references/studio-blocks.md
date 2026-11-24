@@ -32,6 +32,31 @@ blocks.
 
 ---
 
+## Physical & object explainers (the relatable bar)
+
+When the topic is a physical thing, not an app — how a device, mechanism or everyday object works —
+match the reference `How do the supermarket gates work.mp4`: an anti-theft gate explainer that reads
+as relatable because it shows the real objects a viewer already knows. Same "show the real thing"
+rule, physical edition.
+
+| Reference habit | What it means for every shot |
+|---|---|
+| **Photoreal 3D objects, not icons or flat UI.** The gate, a copper-coil PCB, barcode labels, a coffee jar, a razor-blade pack, a receipt, a shopping bag, a hand-written list (`RAZOR BLADES / BREAD / MILK`), a real hand lifting a tag. | Model the actual object with real proportions, materials and labels. The viewer sees things from their own life, so it lands. |
+| **Near-monochrome, material colour only.** Black / white / grey dominate; the only colour is the object's own material — copper coil, orange security tag, green field waves, purple magnetic strip. | Don't paint the scene in a brand colour. Let real materials carry the colour. |
+| **One keyword emphasised per line**, neutral highlight (box/underline), not a loud colour. Conversational second person, analogy-driven ("like a tuning fork", "and the strip still rings"). | Same headline-caption mechanic; keep the keyword highlight neutral unless the brand rule says otherwise. |
+| **Annotation layer.** Leader-line labels (`COIL`), a `Magnified Illustration` footnote, ruler/measurement overlays. | Add technical callouts — they make an explainer feel authoritative. |
+| **Staging alternates.** Dark dramatic hero stage (the device) ↔ bright top-down flat-lay stage (products on white). | Cut between a moody hero shot and a clean product flat-lay to keep rhythm. |
+| **Invisible forces visualised.** Resonance / fields drawn as flowing green sine lines; camera zooms into a magnified detail, slow orbit around the device. | When the mechanism is invisible, draw it; push the camera into the part that matters. |
+
+### Brand-accent restraint
+
+Keep the brand accent **out of the body**. Use it **only in the outro and the watermark**; everywhere
+else the palette is neutral grey/white plus the real material colours of what's on screen. Mid-video
+keyword highlights use a neutral box, not the accent. (A replicated app keeps its own colours — that's
+the app, not the brand.) The watermark/name text comes from the brand config, not a hard-coded handle.
+
+---
+
 ## Topic → interface lookup
 
 Build the replica with the UI kit below. Use the real product's layout, colours and microcopy;
